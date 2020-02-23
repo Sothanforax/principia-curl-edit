@@ -1,12 +1,12 @@
 libcurl.framework
 *.spec
 
+*.dll
+*.exe
 .deps
 .libs
 *.lib
 *.pdb
-*.dll
-*.exe
 *.obj
 *.asc
 .*.swp
