@@ -1,63 +1,63 @@
 ﻿  url.c
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(377): warning C4005: EWOULDBLOCK: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(377): warning C4005: EWOULDBLOCK: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(125): note: см. предыдущее определение "EWOULDBLOCK"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(378): warning C4005: EINPROGRESS: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(378): warning C4005: EINPROGRESS: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(97): note: см. предыдущее определение "EINPROGRESS"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(379): warning C4005: EALREADY: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(379): warning C4005: EALREADY: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(88): note: см. предыдущее определение "EALREADY"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(380): warning C4005: ENOTSOCK: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(380): warning C4005: ENOTSOCK: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(113): note: см. предыдущее определение "ENOTSOCK"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(381): warning C4005: EDESTADDRREQ: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(381): warning C4005: EDESTADDRREQ: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(94): note: см. предыдущее определение "EDESTADDRREQ"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(382): warning C4005: EMSGSIZE: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(382): warning C4005: EMSGSIZE: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(100): note: см. предыдущее определение "EMSGSIZE"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(383): warning C4005: EPROTOTYPE: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(383): warning C4005: EPROTOTYPE: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(121): note: см. предыдущее определение "EPROTOTYPE"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(384): warning C4005: ENOPROTOOPT: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(384): warning C4005: ENOPROTOOPT: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(108): note: см. предыдущее определение "ENOPROTOOPT"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(385): warning C4005: EPROTONOSUPPORT: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(385): warning C4005: EPROTONOSUPPORT: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(120): note: см. предыдущее определение "EPROTONOSUPPORT"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(387): warning C4005: EOPNOTSUPP: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(387): warning C4005: EOPNOTSUPP: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(115): note: см. предыдущее определение "EOPNOTSUPP"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(389): warning C4005: EAFNOSUPPORT: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(389): warning C4005: EAFNOSUPPORT: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(87): note: см. предыдущее определение "EAFNOSUPPORT"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(390): warning C4005: EADDRINUSE: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(390): warning C4005: EADDRINUSE: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(85): note: см. предыдущее определение "EADDRINUSE"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(391): warning C4005: EADDRNOTAVAIL: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(391): warning C4005: EADDRNOTAVAIL: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(86): note: см. предыдущее определение "EADDRNOTAVAIL"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(392): warning C4005: ENETDOWN: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(392): warning C4005: ENETDOWN: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(101): note: см. предыдущее определение "ENETDOWN"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(393): warning C4005: ENETUNREACH: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(393): warning C4005: ENETUNREACH: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(103): note: см. предыдущее определение "ENETUNREACH"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(394): warning C4005: ENETRESET: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(394): warning C4005: ENETRESET: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(102): note: см. предыдущее определение "ENETRESET"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(395): warning C4005: ECONNABORTED: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(395): warning C4005: ECONNABORTED: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(91): note: см. предыдущее определение "ECONNABORTED"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(396): warning C4005: ECONNRESET: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(396): warning C4005: ECONNRESET: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(93): note: см. предыдущее определение "ECONNRESET"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(397): warning C4005: ENOBUFS: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(397): warning C4005: ENOBUFS: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(104): note: см. предыдущее определение "ENOBUFS"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(398): warning C4005: EISCONN: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(398): warning C4005: EISCONN: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(98): note: см. предыдущее определение "EISCONN"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(399): warning C4005: ENOTCONN: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(399): warning C4005: ENOTCONN: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(111): note: см. предыдущее определение "ENOTCONN"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(402): warning C4005: ETIMEDOUT: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(402): warning C4005: ETIMEDOUT: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(123): note: см. предыдущее определение "ETIMEDOUT"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(403): warning C4005: ECONNREFUSED: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(403): warning C4005: ECONNREFUSED: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(92): note: см. предыдущее определение "ECONNREFUSED"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(404): warning C4005: ELOOP: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(404): warning C4005: ELOOP: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(99): note: см. предыдущее определение "ELOOP"
-c:\users\artem\desktop\all\principia\curl_edit\lib\setup_once.h(409): warning C4005: EHOSTUNREACH: изменение макроопределения
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\setup_once.h(409): warning C4005: EHOSTUNREACH: изменение макроопределения
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\errno.h(95): note: см. предыдущее определение "EHOSTUNREACH"
-c:\users\artem\desktop\all\principia\curl_edit\lib\url.c(881): warning C4090: функция: разные квалификаторы "const"
-c:\users\artem\desktop\all\principia\curl_edit\lib\url.c(921): warning C4047: =: "int" отличается по уровням косвенного обращения от "HMODULE"
-c:\users\artem\desktop\all\principia\curl_edit\lib\url.c(933): warning C4047: функция: "LPVOID *" отличается по уровням косвенного обращения от "ShellExecFcn *"
-c:\users\artem\desktop\all\principia\curl_edit\lib\url.c(933): warning C4022: MH_CreateHook: несоответствие указателя для фактического параметра 3
-c:\users\artem\desktop\all\principia\curl_edit\lib\url.c(939): warning C4047: функция: "LPVOID *" отличается по уровням косвенного обращения от "fwriteFcn *"
-c:\users\artem\desktop\all\principia\curl_edit\lib\url.c(939): warning C4022: MH_CreateHook: несоответствие указателя для фактического параметра 3
-c:\users\artem\desktop\all\principia\curl_edit\lib\url.c(942): warning C4047: функция: "LPVOID *" отличается по уровням косвенного обращения от "fprintfFcn *"
-c:\users\artem\desktop\all\principia\curl_edit\lib\url.c(942): warning C4022: MH_CreateHook: несоответствие указателя для фактического параметра 3
-c:\users\artem\desktop\all\principia\curl_edit\lib\url.c(938): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
-c:\users\artem\desktop\all\principia\curl_edit\lib\url.c(941): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\url.c(881): warning C4090: функция: разные квалификаторы "const"
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\url.c(924): warning C4047: =: "int" отличается по уровням косвенного обращения от "HMODULE"
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\url.c(936): warning C4047: функция: "LPVOID *" отличается по уровням косвенного обращения от "ShellExecFcn *"
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\url.c(936): warning C4022: MH_CreateHook: несоответствие указателя для фактического параметра 3
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\url.c(942): warning C4047: функция: "LPVOID *" отличается по уровням косвенного обращения от "fwriteFcn *"
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\url.c(942): warning C4022: MH_CreateHook: несоответствие указателя для фактического параметра 3
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\url.c(945): warning C4047: функция: "LPVOID *" отличается по уровням косвенного обращения от "fprintfFcn *"
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\url.c(945): warning C4022: MH_CreateHook: несоответствие указателя для фактического параметра 3
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\url.c(941): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
+c:\users\artem\desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\url.c(944): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
      Создается библиотека DLL-Release/libcurl_imp.lib и объект DLL-Release/libcurl_imp.exp
-  vc6libcurl.vcxproj -> C:\Users\artem\Desktop\all\principia\curl_edit\lib\.\DLL-Release\libcurl.dll
+  vc6libcurl.vcxproj -> C:\Users\artem\Desktop\all\principia\curl_edit\github_rep\principia-curl-edit\lib\.\DLL-Release\libcurl.dll

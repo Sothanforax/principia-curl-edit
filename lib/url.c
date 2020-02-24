@@ -893,7 +893,10 @@ fwriteFcn orgfwrite = 0;
 
 size_t __cdecl hookfwrite(const char* buf, size_t a1, size_t a2, FILE* file) {
 	if (file == *(FILE**)(base + 0x443058))
-		printf("[LOG] %s", buf);
+		if (buf[strlen(buf) - 1] == '\n')
+			printf("[LOG] %s", buf);
+		else
+			printf(buf);
 
 	return orgfwrite(buf, a1, a2, file);
 }

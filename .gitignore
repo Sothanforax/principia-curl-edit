@@ -1,6 +1,8 @@
 libcurl.framework
 *.spec
 
+*.db
+*.opendb
 *.dll
 *.exe
 .deps

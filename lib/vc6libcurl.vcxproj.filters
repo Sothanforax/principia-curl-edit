@@ -228,9 +228,6 @@
     <ClCompile Include="version.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DllMain.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
     <ClCompile Include="minhook\buffer.c">
       <Filter>Resource Files</Filter>
     </ClCompile>
@@ -245,6 +242,9 @@
     </ClCompile>
     <ClCompile Include="minhook\trampoline.c">
       <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DllMain.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
