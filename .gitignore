@@ -1,6 +1,8 @@
 libcurl.framework
 *.spec
 
+*.ipch
+*.tlog
 *.db
 *.opendb
 *.dll
